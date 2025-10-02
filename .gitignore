@@ -1,0 +1,11 @@
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+build/
+Debug/
+Release/
+programs/
